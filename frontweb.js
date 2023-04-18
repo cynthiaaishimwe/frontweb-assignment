@@ -5,8 +5,6 @@
 let ArrayyItems = ["milk","juice","flour","butter","vegetables","fruits","bread"]
 
 // Create a separate array with the corresponding stock quantities of each item maximum of 10.
-
-// let ArrayyItemsQuantity = [20,80,50,60,90,70,30]
 let ArrayyItemsQuantity = {
     "milk":20,
     "juice":80,
